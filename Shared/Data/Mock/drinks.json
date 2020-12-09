@@ -1,0 +1,732 @@
+[
+  {
+    "id": 2,
+    "name": "星冰乐",
+    "published_at": "2020-12-04T09:19:55.524Z",
+    "created_at": "2020-12-04T09:19:54.124Z",
+    "updated_at": "2020-12-04T09:19:55.539Z",
+    "menus": [
+      {
+        "id": 3,
+        "name": "焦糖浓缩咖啡星冰乐",
+        "desc": "香醇浓缩咖啡融于浓郁的焦糖咖啡星冰乐，最后在顶部的搅打稀奶油上淋上焦糖风味酱。让你停不了口的美味。",
+        "price": 25,
+        "size_avaliable": false,
+        "drink": 2,
+        "published_at": "2020-12-04T09:34:14.824Z",
+        "created_at": "2020-12-04T09:34:11.976Z",
+        "updated_at": "2020-12-05T09:08:01.960Z",
+        "milk": [],
+        "image": [
+          {
+            "id": 9,
+            "name": "caramel_cream_frappuccino.png",
+            "alternativeText": "",
+            "caption": "",
+            "width": 232,
+            "height": 405,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_caramel_cream_frappuccino.png",
+                "hash": "thumbnail_caramel_cream_frappuccino_1c298fa2f2",
+                "ext": ".png",
+                "mime": "image/png",
+                "width": 89,
+                "height": 156,
+                "size": 29.27,
+                "path": null,
+                "url": "/uploads/thumbnail_caramel_cream_frappuccino_1c298fa2f2.png"
+              }
+            },
+            "hash": "caramel_cream_frappuccino_1c298fa2f2",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 142.43,
+            "url": "/uploads/caramel_cream_frappuccino_1c298fa2f2.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "created_at": "2020-12-04T09:30:16.209Z",
+            "updated_at": "2020-12-04T09:30:16.228Z"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "摩卡可可碎片星冰乐",
+        "desc": "摩卡酱和咖啡在冰块的碰撞下魅力四射，可可碎片带来不同的口感，顶部覆以稀奶油与摩卡酱，让浓郁变得更加有趣。(可可碎片为代可可脂巧克力)",
+        "price": 25,
+        "size_avaliable": null,
+        "drink": 2,
+        "published_at": "2020-12-04T09:35:27.396Z",
+        "created_at": "2020-12-04T09:35:09.175Z",
+        "updated_at": "2020-12-05T09:07:03.736Z",
+        "milk": [],
+        "image": [
+          {
+            "id": 14,
+            "name": "signature-chocolate-beverage-removebg-preview.png",
+            "alternativeText": "",
+            "caption": "",
+            "width": 217,
+            "height": 284,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_signature-chocolate-beverage-removebg-preview.png",
+                "hash": "thumbnail_signature_chocolate_beverage_removebg_preview_d87019a3be",
+                "ext": ".png",
+                "mime": "image/png",
+                "width": 119,
+                "height": 156,
+                "size": 41.12,
+                "path": null,
+                "url": "/uploads/thumbnail_signature_chocolate_beverage_removebg_preview_d87019a3be.png"
+              }
+            },
+            "hash": "signature_chocolate_beverage_removebg_preview_d87019a3be",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 96.7,
+            "url": "/uploads/signature_chocolate_beverage_removebg_preview_d87019a3be.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "created_at": "2020-12-04T09:30:16.544Z",
+            "updated_at": "2020-12-04T09:30:16.558Z"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "name": "草莓星冰乐",
+        "desc": "这款草莓星冰乐采用牛奶、冰块和星巴克特制的草莓酱制成。层层叠加有如三明治般丰富的酸甜口感,外加最上层的经典香草鲜奶油,相信是一款品质不错的饮品!",
+        "price": 28,
+        "size_avaliable": false,
+        "drink": 2,
+        "published_at": "2020-12-04T14:28:07.772Z",
+        "created_at": "2020-12-04T14:28:05.990Z",
+        "updated_at": "2020-12-05T09:39:19.319Z",
+        "milk": [],
+        "image": [
+          {
+            "id": 15,
+            "name": "Strawberries_and_cream_frappuccino.png",
+            "alternativeText": "",
+            "caption": "",
+            "width": 237,
+            "height": 414,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_Strawberries_and_cream_frappuccino.png",
+                "hash": "thumbnail_Strawberries_and_cream_frappuccino_94e8aa4700",
+                "ext": ".png",
+                "mime": "image/png",
+                "width": 89,
+                "height": 156,
+                "size": 35.26,
+                "path": null,
+                "url": "/uploads/thumbnail_Strawberries_and_cream_frappuccino_94e8aa4700.png"
+              }
+            },
+            "hash": "Strawberries_and_cream_frappuccino_94e8aa4700",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 193.96,
+            "url": "/uploads/Strawberries_and_cream_frappuccino_94e8aa4700.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "created_at": "2020-12-04T09:30:16.579Z",
+            "updated_at": "2020-12-04T09:30:16.591Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "冰咖啡",
+    "published_at": "2020-12-04T09:20:06.606Z",
+    "created_at": "2020-12-04T09:20:05.300Z",
+    "updated_at": "2020-12-04T09:20:06.621Z",
+    "menus": [
+      {
+        "id": 8,
+        "name": "卡布奇诺（冷)",
+        "desc": "蒸煮牛奶与浓缩咖啡相融合，用丰厚绵密的奶泡覆顶，再撒上肉桂粉或可可粉。\n\n温馨提示：在奶泡消融前，请尽快享用。",
+        "price": 22.2,
+        "size_avaliable": true,
+        "drink": 3,
+        "published_at": "2020-12-04T14:25:51.109Z",
+        "created_at": "2020-12-04T14:19:11.699Z",
+        "updated_at": "2020-12-05T09:06:46.176Z",
+        "milk": [
+          {
+            "id": 19,
+            "name": "牛奶"
+          },
+          {
+            "id": 20,
+            "name": "豆奶"
+          },
+          {
+            "id": 21,
+            "name": "杏仁奶"
+          }
+        ],
+        "image": [
+          {
+            "id": 7,
+            "name": "20190327121009983.png",
+            "alternativeText": "",
+            "caption": "",
+            "width": 465,
+            "height": 489,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_20190327121009983.png",
+                "hash": "thumbnail_20190327121009983_e8df040dfe",
+                "ext": ".png",
+                "mime": "image/png",
+                "width": 148,
+                "height": 156,
+                "size": 47.48,
+                "path": null,
+                "url": "/uploads/thumbnail_20190327121009983_e8df040dfe.png"
+              }
+            },
+            "hash": "20190327121009983_e8df040dfe",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 251.84,
+            "url": "/uploads/20190327121009983_e8df040dfe.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "created_at": "2020-12-04T09:30:16.089Z",
+            "updated_at": "2020-12-04T09:30:16.121Z"
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "name": "焦糖玛奇朵 （冷）",
+        "desc": "玛奇朵在意大利语中的意思是“印记”。从蒸煮牛奶和添加风味糖浆开始，再倒入醇厚的浓缩咖啡，留下属于玛奇朵的独有印记。",
+        "price": 22.2,
+        "size_avaliable": true,
+        "drink": 3,
+        "published_at": "2020-12-04T14:22:35.899Z",
+        "created_at": "2020-12-04T14:22:33.503Z",
+        "updated_at": "2020-12-05T09:08:16.801Z",
+        "milk": [
+          {
+            "id": 16,
+            "name": "牛奶"
+          },
+          {
+            "id": 17,
+            "name": "豆奶"
+          },
+          {
+            "id": 18,
+            "name": "杏仁奶"
+          }
+        ],
+        "image": [
+          {
+            "id": 5,
+            "name": "20190315112127432.png",
+            "alternativeText": "",
+            "caption": "",
+            "width": 505,
+            "height": 422,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_20190315112127432.png",
+                "hash": "thumbnail_20190315112127432_6e483f257a",
+                "ext": ".png",
+                "mime": "image/png",
+                "width": 187,
+                "height": 156,
+                "size": 65.63,
+                "path": null,
+                "url": "/uploads/thumbnail_20190315112127432_6e483f257a.png"
+              },
+              "small": {
+                "name": "small_20190315112127432.png",
+                "hash": "small_20190315112127432_6e483f257a",
+                "ext": ".png",
+                "mime": "image/png",
+                "width": 500,
+                "height": 418,
+                "size": 352.25,
+                "path": null,
+                "url": "/uploads/small_20190315112127432_6e483f257a.png"
+              }
+            },
+            "hash": "20190315112127432_6e483f257a",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 317.74,
+            "url": "/uploads/20190315112127432_6e483f257a.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "created_at": "2020-12-04T09:30:15.822Z",
+            "updated_at": "2020-12-04T09:30:15.838Z"
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "name": "摩卡（冷）",
+        "desc": "摩卡最初是指一种带有巧克力风味的咖啡豆，现在，这份巧克力咖啡仍然带给你纯正的温暖。在浓缩咖啡中加入摩卡酱，与蒸煮牛奶一起交织出丝滑与醇厚。",
+        "price": 18.8,
+        "size_avaliable": true,
+        "drink": 3,
+        "published_at": "2020-12-04T14:24:21.627Z",
+        "created_at": "2020-12-04T14:24:20.149Z",
+        "updated_at": "2020-12-05T09:07:13.624Z",
+        "milk": [],
+        "image": [
+          {
+            "id": 1,
+            "name": "2013081316151831.png",
+            "alternativeText": "",
+            "caption": "",
+            "width": 278,
+            "height": 328,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_2013081316151831.png",
+                "hash": "thumbnail_2013081316151831_44b9f6086d",
+                "ext": ".png",
+                "mime": "image/png",
+                "width": 132,
+                "height": 156,
+                "size": 48.25,
+                "path": null,
+                "url": "/uploads/thumbnail_2013081316151831_44b9f6086d.png"
+              }
+            },
+            "hash": "2013081316151831_44b9f6086d",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 140.64,
+            "url": "/uploads/2013081316151831_44b9f6086d.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "created_at": "2020-12-04T09:30:15.584Z",
+            "updated_at": "2020-12-04T09:30:15.603Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "热咖啡",
+    "published_at": "2020-12-04T09:20:17.836Z",
+    "created_at": "2020-12-04T09:20:16.669Z",
+    "updated_at": "2020-12-04T09:20:17.850Z",
+    "menus": [
+      {
+        "id": 1,
+        "name": "摩卡（热)",
+        "desc": "摩卡最初是指一种带有巧克力风味的咖啡豆，现在，这份巧克力咖啡仍然带给你纯正的温暖。在浓缩咖啡中加入摩卡酱，与蒸煮牛奶一起交织出丝滑与醇厚。",
+        "price": 18.8,
+        "size_avaliable": true,
+        "drink": 4,
+        "published_at": "2020-12-04T09:30:43.784Z",
+        "created_at": "2020-12-04T09:27:13.016Z",
+        "updated_at": "2020-12-05T09:07:21.833Z",
+        "milk": [
+          {
+            "id": 26,
+            "name": "牛奶"
+          },
+          {
+            "id": 27,
+            "name": "豆奶"
+          },
+          {
+            "id": 28,
+            "name": "杏仁奶"
+          }
+        ],
+        "image": [
+          {
+            "id": 1,
+            "name": "2013081316151831.png",
+            "alternativeText": "",
+            "caption": "",
+            "width": 278,
+            "height": 328,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_2013081316151831.png",
+                "hash": "thumbnail_2013081316151831_44b9f6086d",
+                "ext": ".png",
+                "mime": "image/png",
+                "width": 132,
+                "height": 156,
+                "size": 48.25,
+                "path": null,
+                "url": "/uploads/thumbnail_2013081316151831_44b9f6086d.png"
+              }
+            },
+            "hash": "2013081316151831_44b9f6086d",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 140.64,
+            "url": "/uploads/2013081316151831_44b9f6086d.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "created_at": "2020-12-04T09:30:15.584Z",
+            "updated_at": "2020-12-04T09:30:15.603Z"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "卡布奇诺（热)",
+        "desc": "蒸煮牛奶与浓缩咖啡相融合，用丰厚绵密的奶泡覆顶，再撒上肉桂粉或可可粉。\n\n温馨提示：在奶泡消融前，请尽快享用。",
+        "price": 22.2,
+        "size_avaliable": true,
+        "drink": 4,
+        "published_at": "2020-12-04T09:32:30.596Z",
+        "created_at": "2020-12-04T09:32:11.460Z",
+        "updated_at": "2020-12-05T09:06:52.522Z",
+        "milk": [
+          {
+            "id": 23,
+            "name": "牛奶"
+          },
+          {
+            "id": 24,
+            "name": "豆奶"
+          },
+          {
+            "id": 25,
+            "name": "杏仁奶"
+          }
+        ],
+        "image": [
+          {
+            "id": 7,
+            "name": "20190327121009983.png",
+            "alternativeText": "",
+            "caption": "",
+            "width": 465,
+            "height": 489,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_20190327121009983.png",
+                "hash": "thumbnail_20190327121009983_e8df040dfe",
+                "ext": ".png",
+                "mime": "image/png",
+                "width": 148,
+                "height": 156,
+                "size": 47.48,
+                "path": null,
+                "url": "/uploads/thumbnail_20190327121009983_e8df040dfe.png"
+              }
+            },
+            "hash": "20190327121009983_e8df040dfe",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 251.84,
+            "url": "/uploads/20190327121009983_e8df040dfe.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "created_at": "2020-12-04T09:30:16.089Z",
+            "updated_at": "2020-12-04T09:30:16.121Z"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "name": "焦糖玛奇朵（热）",
+        "desc": "玛奇朵在意大利语中的意思是“印记”。从蒸煮牛奶和添加风味糖浆开始，再倒入醇厚的浓缩咖啡，留下属于玛奇朵的独有印记。",
+        "price": 22.2,
+        "size_avaliable": true,
+        "drink": 4,
+        "published_at": "2020-12-04T14:21:53.799Z",
+        "created_at": "2020-12-04T14:21:52.645Z",
+        "updated_at": "2020-12-05T09:08:34.894Z",
+        "milk": [
+          {
+            "id": 29,
+            "name": "牛奶"
+          },
+          {
+            "id": 30,
+            "name": "豆奶"
+          },
+          {
+            "id": 31,
+            "name": "杏仁奶"
+          }
+        ],
+        "image": [
+          {
+            "id": 5,
+            "name": "20190315112127432.png",
+            "alternativeText": "",
+            "caption": "",
+            "width": 505,
+            "height": 422,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_20190315112127432.png",
+                "hash": "thumbnail_20190315112127432_6e483f257a",
+                "ext": ".png",
+                "mime": "image/png",
+                "width": 187,
+                "height": 156,
+                "size": 65.63,
+                "path": null,
+                "url": "/uploads/thumbnail_20190315112127432_6e483f257a.png"
+              },
+              "small": {
+                "name": "small_20190315112127432.png",
+                "hash": "small_20190315112127432_6e483f257a",
+                "ext": ".png",
+                "mime": "image/png",
+                "width": 500,
+                "height": 418,
+                "size": 352.25,
+                "path": null,
+                "url": "/uploads/small_20190315112127432_6e483f257a.png"
+              }
+            },
+            "hash": "20190315112127432_6e483f257a",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 317.74,
+            "url": "/uploads/20190315112127432_6e483f257a.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "created_at": "2020-12-04T09:30:15.822Z",
+            "updated_at": "2020-12-04T09:30:15.838Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "茶饮",
+    "published_at": "2020-12-04T09:37:31.986Z",
+    "created_at": "2020-12-04T09:37:30.882Z",
+    "updated_at": "2020-12-04T14:26:43.996Z",
+    "menus": [
+      {
+        "id": 5,
+        "name": "茶瓦纳™冰摇桃桃乌龙茶",
+        "desc": "内含原榨桃汁加上吃得到的大颗白桃果肉， 吃上一口，尝上一块，留住唇间的鲜醇甘厚。更有茶香留恋回味，给TA淘气的味蕾茶选。",
+        "price": 20,
+        "size_avaliable": null,
+        "drink": 6,
+        "published_at": "2020-12-04T09:36:20.807Z",
+        "created_at": "2020-12-04T09:36:18.151Z",
+        "updated_at": "2020-12-05T09:08:49.900Z",
+        "milk": [],
+        "image": [
+          {
+            "id": 4,
+            "name": "2020032720120888.png",
+            "alternativeText": "",
+            "caption": "",
+            "width": 239,
+            "height": 451,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_2020032720120888.png",
+                "hash": "thumbnail_2020032720120888_37339f9fae",
+                "ext": ".png",
+                "mime": "image/png",
+                "width": 83,
+                "height": 156,
+                "size": 33.29,
+                "path": null,
+                "url": "/uploads/thumbnail_2020032720120888_37339f9fae.png"
+              }
+            },
+            "hash": "2020032720120888_37339f9fae",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 201.9,
+            "url": "/uploads/2020032720120888_37339f9fae.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "created_at": "2020-12-04T09:30:15.710Z",
+            "updated_at": "2020-12-04T09:30:15.722Z"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "冰摇芒果花草茶",
+        "desc": "茶瓦纳™\n冰摇芒果花草茶",
+        "price": 26,
+        "size_avaliable": null,
+        "drink": 6,
+        "published_at": "2020-12-04T09:39:31.175Z",
+        "created_at": "2020-12-04T09:39:19.501Z",
+        "updated_at": "2020-12-05T09:06:37.884Z",
+        "milk": [],
+        "image": [
+          {
+            "id": 16,
+            "name": "triple-citrus.png",
+            "alternativeText": "",
+            "caption": "",
+            "width": 175,
+            "height": 399,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_triple-citrus.png",
+                "hash": "thumbnail_triple_citrus_816377cf4a",
+                "ext": ".png",
+                "mime": "image/png",
+                "width": 68,
+                "height": 156,
+                "size": 31.18,
+                "path": null,
+                "url": "/uploads/thumbnail_triple_citrus_816377cf4a.png"
+              }
+            },
+            "hash": "triple_citrus_816377cf4a",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 161.43,
+            "url": "/uploads/triple_citrus_816377cf4a.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "created_at": "2020-12-04T09:30:16.609Z",
+            "updated_at": "2020-12-04T09:30:16.620Z"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "红茶拿铁（冷\\热）",
+        "desc": "优质红茶在蒸奶中慢慢的呈现出温和的口感，以柔和的奶泡锁住茶香，加以经典风味酱。这是红茶与牛奶的对话，优雅品享红茶文化。\n\n本饮品不含咖啡。",
+        "price": 18,
+        "size_avaliable": null,
+        "drink": 6,
+        "published_at": "2020-12-04T09:40:25.509Z",
+        "created_at": "2020-12-04T09:40:19.129Z",
+        "updated_at": "2020-12-05T09:08:42.561Z",
+        "milk": [],
+        "image": [
+          {
+            "id": 5,
+            "name": "20190315112127432.png",
+            "alternativeText": "",
+            "caption": "",
+            "width": 505,
+            "height": 422,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_20190315112127432.png",
+                "hash": "thumbnail_20190315112127432_6e483f257a",
+                "ext": ".png",
+                "mime": "image/png",
+                "width": 187,
+                "height": 156,
+                "size": 65.63,
+                "path": null,
+                "url": "/uploads/thumbnail_20190315112127432_6e483f257a.png"
+              },
+              "small": {
+                "name": "small_20190315112127432.png",
+                "hash": "small_20190315112127432_6e483f257a",
+                "ext": ".png",
+                "mime": "image/png",
+                "width": 500,
+                "height": 418,
+                "size": 352.25,
+                "path": null,
+                "url": "/uploads/small_20190315112127432_6e483f257a.png"
+              }
+            },
+            "hash": "20190315112127432_6e483f257a",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 317.74,
+            "url": "/uploads/20190315112127432_6e483f257a.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "created_at": "2020-12-04T09:30:15.822Z",
+            "updated_at": "2020-12-04T09:30:15.838Z"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "梨光清润路芭茶",
+        "desc": "茶瓦纳™\n\n梨光清润路芭茶",
+        "price": 23,
+        "size_avaliable": false,
+        "drink": 6,
+        "published_at": "2020-12-04T14:34:01.051Z",
+        "created_at": "2020-12-04T14:33:24.324Z",
+        "updated_at": "2020-12-05T09:07:32.239Z",
+        "milk": [],
+        "image": [
+          {
+            "id": 17,
+            "name": "sparkling-espresso-tonic.png",
+            "alternativeText": "",
+            "caption": "",
+            "width": 211,
+            "height": 505,
+            "formats": {
+              "thumbnail": {
+                "name": "thumbnail_sparkling-espresso-tonic.png",
+                "hash": "thumbnail_sparkling_espresso_tonic_897650346d",
+                "ext": ".png",
+                "mime": "image/png",
+                "width": 65,
+                "height": 156,
+                "size": 29.5,
+                "path": null,
+                "url": "/uploads/thumbnail_sparkling_espresso_tonic_897650346d.png"
+              },
+              "small": {
+                "name": "small_sparkling-espresso-tonic.png",
+                "hash": "small_sparkling_espresso_tonic_897650346d",
+                "ext": ".png",
+                "mime": "image/png",
+                "width": 209,
+                "height": 500,
+                "size": 256.75,
+                "path": null,
+                "url": "/uploads/small_sparkling_espresso_tonic_897650346d.png"
+              }
+            },
+            "hash": "sparkling_espresso_tonic_897650346d",
+            "ext": ".png",
+            "mime": "image/png",
+            "size": 240.59,
+            "url": "/uploads/sparkling_espresso_tonic_897650346d.png",
+            "previewUrl": null,
+            "provider": "local",
+            "provider_metadata": null,
+            "created_at": "2020-12-04T09:30:16.638Z",
+            "updated_at": "2020-12-04T09:30:16.649Z"
+          }
+        ]
+      }
+    ]
+  }
+]
